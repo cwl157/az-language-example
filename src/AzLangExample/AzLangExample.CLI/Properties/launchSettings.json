@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzLangExample.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-f \"D:\\dev\\tmp\\find_entities.txt\""
+    }
+  }
+}

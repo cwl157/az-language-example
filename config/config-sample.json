@@ -1,0 +1,4 @@
+{
+	"AzLanguageServicesKey": "The authentication key for Azure Language service. Get this from Azure.",
+	"AzLanguageEndpoint": "The language endpoint from Azure"
+}
